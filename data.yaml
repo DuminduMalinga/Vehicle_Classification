@@ -1,0 +1,9 @@
+train: C:/Users/HashTag/Desktop/VehicleClassificationYOLO/data/vehicles/images/train
+val: C:/Users/HashTag/Desktop/VehicleClassificationYOLO/data/vehicles/images/val
+
+nc: 4
+names:
+  0: car
+  1: bus
+  2: truck
+  3: motorcycle
