@@ -1,9 +1,0 @@
-path: C:\Users\HashTag\Desktop\VehicleClassificationYOLO\data\vehicles
-train: images/train
-val: images/val
-nc: 4
-names:
-  0: car
-  1: bus
-  2: truck
-  3: motorcycle
